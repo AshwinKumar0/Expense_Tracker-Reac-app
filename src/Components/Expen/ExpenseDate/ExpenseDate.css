@@ -1,0 +1,20 @@
+.date{
+    border: 1px solid white;
+    display: flex;
+    flex-direction: column;
+    padding: 5px;
+    border-radius: 5px;
+    color: white;
+    background-color: black;
+}
+
+.day{
+ font-size: larger;
+}
+.month{
+    font-weight: 600;
+    font-size: larger;
+}
+.year{
+    font-size: large;
+}
