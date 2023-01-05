@@ -17,7 +17,7 @@ function ExpenseItem(props){
                 <div className='item-price'>{props.amount}</div>
             </div>
             <input className='item-change' placeholder='Input Titile'  type="text"></input>
-            <button className='item-price' onClick={clickHandler}>Change Title</button>
+            <button className='item-price' onClick={clickHandler}>Change-Title</button>
         </Card>
         
     );
