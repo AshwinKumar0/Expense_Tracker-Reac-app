@@ -1,20 +1,22 @@
 .date{
-    border: 1px solid white;
+    /* border: 1px solid white; */
     display: flex;
     flex-direction: column;
     padding: 5px;
     border-radius: 5px;
     color: white;
     background-color: black;
+    
 }
 
 .day{
  font-size: larger;
+ font-weight: 600;
 }
-.month{
+/* .month{
     font-weight: 600;
     font-size: larger;
 }
 .year{
     font-size: large;
-}
+} */
