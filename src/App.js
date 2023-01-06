@@ -29,26 +29,8 @@ export default App;
 let Dummy_expense = [
   {
     id : 'e1',
-    title : 'Books',
-    amount : '150',
-    date : new Date(2022,10,14)
-  },
-  {
-    id : 'e2',
-    title : 'copies',
-    amount : '110',
-    date : new Date(2022,12,14)
-  },
-  {
-    id : 'e2',
-    title : 'laptop',
-    amount : '55550',
-    date : new Date(2022,12,24)
-  },
-  {
-    id : 'e4',
-    title : 'phone',
-    amount : '11150',
-    date : new Date(2022,12,30)
-  },
+    title : 'Title',
+    amount : 'price',
+    date : new Date(2023,1,1)
+    }
 ];
